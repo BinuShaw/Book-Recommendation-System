@@ -1,0 +1,8 @@
+Preprocessed_data.csv
+goodreads_data.csv
+similarities.joblib
+similarities_1.joblib
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/

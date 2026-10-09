@@ -1,0 +1,59 @@
+/* Main page */
+.main {
+    padding-top: 2rem;
+}
+
+/* Title */
+.title {
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+/* Subtitle */
+.subtitle {
+    text-align: center;
+    color: #A7A7B3;
+    font-size: 17px;
+    margin-bottom: 35px;
+}
+
+/* Section heading */
+.section-title {
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+/* Recommendation card */
+.book-card {
+    padding: 18px 20px;
+    border-radius: 12px;
+    background: #1E1F26;
+    border: 1px solid #30313A;
+    margin-bottom: 14px;
+}
+
+/* Book title */
+.book-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+/* Similarity */
+.similarity {
+    color: #A7A7B3;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: #777983;
+    font-size: 13px;
+    margin-top: 45px;
+}
