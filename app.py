@@ -42,7 +42,7 @@ st.markdown(
 with open("books.pickle", "rb") as b:
     books = pickle.load(b)
     
-similarities = joblib.load("similarities.joblib", "rb")
+# similarities = joblib.load("similarities.joblib", "rb")
 tf_idf_matrix = joblib.load("tf_idf_matrix.joblib", "rb")
 
 book_name = books['Book'].values
