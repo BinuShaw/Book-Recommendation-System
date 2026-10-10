@@ -13,6 +13,16 @@ The dataset contains information about books from different genres and is used t
 
 ---
 
+## Live Demo
+
+Render URL: https://book-recommendation-system-sxna.onrender.com/
+
+GitHub Repository
+
+https://github.com/BinuShaw/Book-Recommendation-System
+
+
+
 ## Project Objectives
 
 The main objectives of this project are:
